@@ -31,3 +31,4 @@ const fizzBuzz = (counterNumber) => {
 
 console.log("50 veces");
 console.log(fizzBuzz(50));
+
